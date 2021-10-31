@@ -4,17 +4,27 @@ This workshop explores the challenges of using machine learning models for inter
 
 ## Requirements
 
-* [openFrameworks](https://openframeworks.cc/)
+This workshop 
+
 * [Python 3.6–3.9](https://docs.python-guide.org/starting/installation/)
 * [Tensorflow](https://www.tensorflow.org/install)
+* [openFrameworks](https://openframeworks.cc/)
 * [ofxZmgModelRunner](https://github.com/meredityman/ofxZmqModelRunner)
 * [ofxZmq](https://github.com/meredityman/ofxZmq)
 
 ## Summary
 
-* Why I'm giving this workshop
-* Example?
+
+### Notes
+
+
+* Interactive AI for applications and performances.
+    * Use of AI should be as a tool that gives greater affordances to artists.
+    * These tools should be easily prototypable and work in realtime.
 * Neural Networks and Hardware
+    * Very short introduction
+    * Examples:
+        * 
 * Machine learning ecosystems
     * [Tensorflow](https://www.tensorflow.org)
         * [Tensorflow.js](https://www.tensorflow.org/js)
@@ -45,3 +55,8 @@ This workshop explores the challenges of using machine learning models for inter
     * Sockets/Websockets
 * Running installations
     * Experience
+
+
+
+    https://gamedevtoolmaker.itch.io/textureworks
+    https://paperswithcode.com/
